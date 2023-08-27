@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jugos_m&amp;m</string>
+    <string name="imageView1">imageView</string>
+    <string name="et_Email">Usuario</string>
+    <string name="et_Password">Password</string>
+    <string name="Btn">login</string>
+    <string name="Chk">Registrar</string>
+
+</resources>

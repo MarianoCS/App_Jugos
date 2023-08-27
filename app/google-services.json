@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "697514348050",
+    "firebase_url": "https://apk-jugos-naturales-default-rtdb.firebaseio.com",
+    "project_id": "apk-jugos-naturales",
+    "storage_bucket": "apk-jugos-naturales.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697514348050:android:3ec3c878958b23ed9952cb",
+        "android_client_info": {
+          "package_name": "com.example.apkjugosnaturales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697514348050-9t6rdjij64v66urone96mfo3utf8is7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr7HaO7bmNOntO-EggSYOBHwU_RlGNWmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697514348050-9t6rdjij64v66urone96mfo3utf8is7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697514348050:android:7c7b25a71aa3b4619952cb",
+        "android_client_info": {
+          "package_name": "com.example.jugos_mm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697514348050-9t6rdjij64v66urone96mfo3utf8is7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr7HaO7bmNOntO-EggSYOBHwU_RlGNWmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697514348050-9t6rdjij64v66urone96mfo3utf8is7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="et_Usuario">Usuario</string>
+    <string name="et_Correo">Correo</string>
+    <string name="et_password">Password</string>
+    <string name="Chk2">Registrar</string>
+    <string name="Btn2">LOGIN</string>
+</resources>
